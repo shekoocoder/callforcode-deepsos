@@ -18,7 +18,7 @@
     "express": "^4.15.2",
     "express-less": "^0.1.0",
     "serve-favicon": "^2.4.5",
-    "request": "^2.81.0",  
+    "request": "^2.81.0",
     "ws": "^2.3.1"
   }
 }
