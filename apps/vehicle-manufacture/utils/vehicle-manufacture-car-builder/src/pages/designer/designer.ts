@@ -24,19 +24,19 @@ export class DesignerPage {
   constructor(public navController: NavController) {
     this.cars = [{
       name: 'Hurricane',
-      image: 'arium_nebula.svg',
+      image: 'wind.png',
       zoom: 'contain',
       repeat: 'no-repeat',
       position: 'right'
     }, {
       name: 'Tsumani',
-      image: 'arium_nova.svg',
+      image: 'flood.png',
       zoom: 'contain',
       repeat: 'no-repeat',
       position: 'right'
     }, {
       name: 'Wild Fire',
-      image: 'arium_thanos.svg',
+      image: 'forestFire.png',
       zoom: 'contain',
       repeat: 'no-repeat',
       position: 'right'

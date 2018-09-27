@@ -32367,32 +32367,32 @@ page-builder ion-card.card .option-interiors .option-colour {
 
 page-builder ion-card.card .option-colours .option-colour .sunburst,
 page-builder ion-card.card .option-interiors .option-colour .sunburst {
-  background-image: linear-gradient(-180deg, #ffa047 0%, #d97122 100%);
+  background-image: url("../assets/med4.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour .red,
 page-builder ion-card.card .option-interiors .option-colour .red {
-  background-image: linear-gradient(-180deg, #f5515f 0%, #9f031b 100%);
+  background-image: url("../assets/med5.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour .purple,
 page-builder ion-card.card .option-interiors .option-colour .purple {
-  background-image: linear-gradient(-134deg, #3023ae 0%, #c96dd8 100%);
+  background-image: url("../assets/med3.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour .green,
 page-builder ion-card.card .option-interiors .option-colour .green {
-  background-image: linear-gradient(-180deg, #b4ed50 0%, #429321 100%);
+  background-image: url("../assets/med2.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour .blue,
 page-builder ion-card.card .option-interiors .option-colour .blue {
-  background-image: linear-gradient(-180deg, #51f5eb 0%, #03939f 100%);
+  background-image: url("../assets/blood.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour .grape,
 page-builder ion-card.card .option-interiors .option-colour .grape {
-  background-image: linear-gradient(-134deg, #ae2358 0%, #c96dd8 100%);
+  background-image: url("../assets/medicines.png");
 }
 
 page-builder ion-card.card .option-colours .option-interior,
@@ -32409,22 +32409,22 @@ page-builder ion-card.card .option-interiors .option-interior {
 
 page-builder ion-card.card .option-colours .option-interior .red,
 page-builder ion-card.card .option-interiors .option-interior .red {
-  background-image: url("../assets/red_leather.jpg");
+  background-image: url("../assets/res1.png");
 }
 
 page-builder ion-card.card .option-colours .option-interior .papyrus,
 page-builder ion-card.card .option-interiors .option-interior .papyrus {
-  background-image: url("../assets/white_leather.jpg");
+  background-image: url("../assets/res2.png");
 }
 
 page-builder ion-card.card .option-colours .option-interior .grey,
 page-builder ion-card.card .option-interiors .option-interior .grey {
-  background-image: url("../assets/grey_leather.jpg");
+  background-image: url("../assets/res3.png");
 }
 
 page-builder ion-card.card .option-colours .option-interior .brown,
 page-builder ion-card.card .option-interiors .option-interior .brown {
-  background-image: url("../assets/brown_leather.jpg");
+  background-image: url("../assets/res5.png");
 }
 
 page-builder ion-card.card .option-colours .option-colour,
