@@ -51,7 +51,7 @@ export class StatusPage {
       }
     };
 
-    let statuses = ['PLACED', 'SCHEDULED_FOR_MANUFACTURE', 'VIN_ASSIGNED', 'OWNER_ASSIGNED', 'DELIVERED'];
+    let statuses = ['MATCHED', 'AGENCY PICKED', 'RESPONDER ASSIGNED', 'SUPPLIES ARRANGED', 'RESPONSE IN PROGRESS'];
 
     var websocket;
 

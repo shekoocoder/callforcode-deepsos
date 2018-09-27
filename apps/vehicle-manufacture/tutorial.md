@@ -9,7 +9,7 @@ When you're finished click 'Place order'.
 [//]: # ('NOTIFICATION | Hello! | Click on the 'Add' icon to bring up the tutorial and begin the demo. | TOP | LEFT | CREATE_WHEN => [ LISTENER | SCOPE | EQUAL | mode | tutorial | OR => [ LISTENER | EVENT | | #reset | click ]] | DESTROY_WHEN => [ LISTENER | EVENT | | #expandContract |  click ]')
 [//]: # ('NOTIFICATION |  | If you would like to reset the tutorial and start again at any point, click the icon in the upper right. | TOP | RIGHT | CREATE_WHEN => [ LISTENER | SCOPE | EQUAL | mode | tutorial | OR => [ LISTENER | EVENT | | #reset | click ]] | DESTROY_WHEN => [ LISTENER | EVENT | | #reset |  click ]')
 
-[//]: # ('NOTIFICATION |  | You are now Paul, a consumer interested in ordering a car through the Arium app.  | TOP | LEFT | CREATE_WHEN => [ LISTENER | EVENT | | #expandContract |  click ] | DESTROY_WHEN => []')
+[//]: # ('NOTIFICATION |  | You are now Abhishek, a consumer interested in ordering a car through the Arium app.  | TOP | LEFT | CREATE_WHEN => [ LISTENER | EVENT | | #expandContract |  click ] | DESTROY_WHEN => []')
 
 [//]: # ('BUTTON | Next Step | /manufacturer-dashboard | ENABLEMENT_RULE => [ REST_EVENT | $class | EQUAL | org.acme.vehicle_network.PlaceOrderEvent]')
 
@@ -35,7 +35,7 @@ In the regulator view, you can see all the transactions that have occured in the
 
 # Reviewing the purchase
 ## Step 4
-Paul is kept up to date with the status of his order using the Arium mobile application.
+Abhishek is kept up to date with the status of his order using the Arium mobile application.
 
 [//]: # ('BUTTON | Finish | /car-builder | ENABLEMENT_RULE => []')
 
